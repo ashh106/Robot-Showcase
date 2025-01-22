@@ -29,6 +29,11 @@ git push origin main
 
 Once your PR is reviewed and approved, your robot project will be added to the showcase! 🎉
 
+## 🫂 Contributors
+<a href="https://github.com/ROFIES-IIITP/Robot-Showcase/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ROFIES-IIITP/Robot-Showcase" />
+</a>
+
 ## ✉️ Contact
 If you have any questions or suggestions regarding this repository, please feel free to contact the club heads. 
 
